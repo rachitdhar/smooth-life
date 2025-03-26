@@ -10,6 +10,10 @@ A continuous version of Game of Life
 ![image](https://github.com/user-attachments/assets/cde027b8-48b4-4f23-b022-837190c68c99)
 ![image](https://github.com/user-attachments/assets/52ae36f2-c5dd-4ed4-8deb-46460e278127)
 
+## Platform compatibility
+
+Expected to only be compatible with Windows operating systems.
+
 ## Resources
 
 - Rafler, S. (2011). Generalization of Conway's" Game of Life" to a continuous domain-SmoothLife. arXiv preprint arXiv:1111.1567. https://doi.org/10.48550/arXiv.1111.1567
